@@ -1,6 +1,6 @@
 # Custom Sosig Model Framework
 
-**A modular custom-character framework for Hot Dogs, Horseshoes & Hand Grenades (H3VR).**
+**A modular custom sosig model framework for H3VR**
 
 The framework replaces the rendered appearance of H3VR Sosigs with humanoid models supplied by independent addon packages. H3VR remains responsible for the Sosig's AI, health, armor, weapons, aiming, damage, and game-mode behavior. The framework drives the custom model's animation and visual hitboxes from that native Sosig.
 
