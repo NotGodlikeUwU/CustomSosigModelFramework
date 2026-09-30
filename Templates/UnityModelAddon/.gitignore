@@ -1,0 +1,10 @@
+/Library/
+/Logs/
+/Obj/
+/Temp/
+/UserSettings/
+/BuildOutput/
+*.csproj
+*.sln
+*.suo
+*.tmp

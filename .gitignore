@@ -1,0 +1,8 @@
+node_modules/
+Reference/
+*.user
+*.suo
+obj/
+bin/
+Tools/.blender-portable/
+Tools/blender-*-windows-x64.zip
