@@ -2,7 +2,7 @@
 
 **A modular custom sosig model framework for H3VR**
 
-[VIDEO DEMONSTRATION](https://www.youtube.com/watch?v=y8gvJM0KX_g)
+# [VIDEO DEMONSTRATION](https://www.youtube.com/watch?v=y8gvJM0KX_g)
 
 The framework replaces the rendered appearance of H3VR Sosigs with humanoid models supplied by independent addon packages. H3VR remains responsible for the Sosig's AI, health, armor, weapons, aiming, damage, and game-mode behavior. The framework drives the custom model's animation and visual hitboxes from that native Sosig.
 
